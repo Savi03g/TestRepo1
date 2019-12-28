@@ -3,3 +3,4 @@ commited for first time.
 
 
 Change 1 in Remote File
+Change2 – commit with message as “Change2 in RemoteFile”
