@@ -1,6 +1,7 @@
-This is a remote file.
+﻿This is a remote file.
 commited for first time.
 
 
 Change 1 in Remote File
 Change2 – commit with message as “Change2 in RemoteFile”
+Change3 – commit with message as “Change3 in RemoteFile”
